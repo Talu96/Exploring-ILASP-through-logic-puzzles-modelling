@@ -1,4 +1,7 @@
 # Exploring-ILASP-through-logic-puzzles-modelling
+This repository contains the whole source code described in paper _**Exploring ILASP through logic puzzles modelling**_ that will be presented at _CILC 2023_ in Udine.
+In each directory you will find two files _IlaspSolver.las_ and _AspSolver.lp_. We run ilasp version 2. 
+
 ## ILASP
 ILASP (Inductive Learning of Answer Set Programs) is a logic-based machine learning system. It makes
 use of existing knowledge base, containing anything known before the learning starts or even previously
